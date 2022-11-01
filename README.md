@@ -15,8 +15,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chae0220&show_icons=true">
-
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=Chae0220.github.io&layout=compact&theme=tokyonight" />
 </a>
