@@ -1,12 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jun's%20Github!&fontSize=90)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=BioRhyme&size=30)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Nunito&size=30)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Oxygen&size=30)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=I’m Studying AI and Data Engineering🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=My+formula+for+success+is+rise+early+,+work+late+and+strike+oil.&font=Redressed&size=40)](https://git.io/typing-svg)
 
 # 🔭 Hello~~ ...
 # 🌱 I’m Studying AI and Data Engineering ...
