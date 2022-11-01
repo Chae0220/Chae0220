@@ -32,7 +32,7 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
-<img src="https://img.shields.io/badge/#217346?style=flat&logo=Microsoft_Excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/#217346?style=flat&logo=MicrosoftExcel&logoColor=white"/>
 
 Operating System
 
