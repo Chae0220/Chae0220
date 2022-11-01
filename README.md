@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Oxygen&size=30)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=My+formula+for+success+is+rise+early+,+work+late+and+strike+oil.&font=Redressed&size=40)](https://git.io/typing-svg)
-
 # 🔭 Hello~~ ...
 # 🌱 I’m Studying AI and Data Engineering ...
 - 👯 I’m looking to collaborate on ...
@@ -14,6 +12,7 @@
 # ⚡ Tech Stack
 
 <div align="center">
+	<text> Tech Stack </text>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
