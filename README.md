@@ -5,15 +5,18 @@
 
 ### 🌱 I’m Studying AI and Data Engineering
 
+
 ### 💜 Interest
-Machine Learning, Computer Vision, Natural Language Processing
-Big data
-Cloud Computing
-Quant Trading
+Machine Learning, Computer Vision, Natural Language Processing,
+Big data,
+Cloud Computing,
+Quant Trading,
 Block Chain
+
 
 ### ☕ Favorite
 Coffee, Music, Movie, Workout
+
 
 
 ### ⚡ Tech Stack
