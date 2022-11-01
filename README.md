@@ -18,22 +18,22 @@
 	<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" />
 </div>
-<div align="center">
+<div align="lift">
 	<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white" />
 	<img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat&logo=Microsoft PowerPoint&logoColor=white" />
 	<img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat&logo=Microsoft Word&logoColor=white" />
 </div>
 
-
-<div align="center">
+# ⚡ Operating System
+<div align="lift">
 	<img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat&logo=Windows 11&logoColor=white" />
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
 </div>
 
-Operating System
 
 
-<div align="center">
+# ⚡ Tools
+<div align="lift">
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
@@ -41,7 +41,8 @@ Operating System
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-<div align="center">
+# ⚡ How to reach me
+<div align="lift">
 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 </div>
 
