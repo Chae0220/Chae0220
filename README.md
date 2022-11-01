@@ -4,11 +4,9 @@
 
 
 ### 🌱 I’m Studying AI and Data Engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+### I'm interested in Big data, AI and Quant Trading
+
+
 ### ⚡ Tech Stack
 
 <div align="lift">
@@ -46,7 +44,9 @@
 
 ### 📬 How to reach me
 <div align="lift">
+	<a href="chae160830@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+	</a>
 </div>
 
 
