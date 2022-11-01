@@ -13,9 +13,6 @@ Cloud Computing
 Quant Trading
 Block Chain
 
-<br>
-<br>
-<br>
 
 ### ⚡ Tech Stack
 
