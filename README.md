@@ -44,7 +44,7 @@
 
 ### 📬 How to reach me
 <div align="lift">
-	<a href="chae160830@gmail.com" target="_blank">
+	<a href="mailto: Chae160830@gmail.com" title="Chae160830@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 </div>
