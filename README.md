@@ -6,8 +6,7 @@
 ### 🌱 I’m Studying AI and Data Engineering
 
 ### 💜 Interest
-
-ML, CV, NLP 
+Machine Learning, Computer Vision, Natural Language Processing
 Big data
 Cloud Computing
 Quant Trading
