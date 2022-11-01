@@ -4,13 +4,15 @@
 
 
 ### 🌱 I’m Studying AI and Data Engineering
-<br>
-### 💜Interest
+
+### 💜 Interest
+
 ML, CV, NLP 
 Big data
 Cloud Computing
 Quant Trading
 Block Chain
+
 <br>
 <br>
 <br>
