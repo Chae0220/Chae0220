@@ -24,7 +24,7 @@
 	<img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat&logo=Microsoft Word&logoColor=white" />
 </div>
 
-### ⚡ Operating System
+### ⭐ Operating System
 <div align="lift">
 	<img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat&logo=Windows 11&logoColor=white" />
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
