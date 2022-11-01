@@ -12,6 +12,9 @@ Cloud Computing
 Quant Trading
 Block Chain
 
+### ☕ Favorite
+Coffee, Music, Movie, Workout
+
 
 ### ⚡ Tech Stack
 
