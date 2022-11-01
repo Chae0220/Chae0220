@@ -11,8 +11,7 @@
 - 😄 Pronouns: ...
 # ⚡ Tech Stack
 
-<div align="center">
-	<text> Tech Stack </text>
+<div align="lift">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
