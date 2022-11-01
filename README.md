@@ -2,13 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=BioRhyme&size=30)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=BioRhyme&size=30)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Nunito&size=30)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Oswald&size=30)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Anton&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Oxygen &size=30)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=I’m Studying AI and Data Engineering🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
