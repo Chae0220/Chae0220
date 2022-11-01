@@ -9,7 +9,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-# ⚡ Tech Stack
+#### ⚡ Tech Stack
 
 <div align="lift">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -24,7 +24,7 @@
 	<img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat&logo=Microsoft Word&logoColor=white" />
 </div>
 
-# ⚡ Operating System
+#### ⚡ Operating System
 <div align="lift">
 	<img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat&logo=Windows 11&logoColor=white" />
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
@@ -32,7 +32,7 @@
 
 
 
-# ⚡ Tools
+#### ⚡ Tools
 <div align="lift">
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
@@ -41,7 +41,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-# ⚡ How to reach me
+#### ⚡ How to reach me
 <div align="lift">
 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 </div>
