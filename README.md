@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jun's%20Github!&fontSize=90)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=BreeSerif&size=36)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Poppins&size=36)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Ubuntu&size=36)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Cabin&size=36)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Anton&size=36)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World&font=Prompt&size=36)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=I’m Studying AI and Data Engineering🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
