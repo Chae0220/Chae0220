@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jun's%20Github!&fontSize=90)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World~~🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=I’m Studying AI and Data Engineering🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
 # 🔭 Hello~~ ...
 # 🌱 I’m Studying AI and Data Engineering ...
@@ -10,6 +12,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 # ⚡ Tech Stack
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chae0220&show_icons=true">
