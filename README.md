@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jun's%20Github!&fontSize=90)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World:wave:&font=Oxygen&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&lines=Hello+World👋&font=Oxygen&size=30)](https://git.io/typing-svg)
 
 
-### 🌱 I’m Studying AI and Data Engineering ...
+### 🌱 I’m Studying AI and Data Engineering
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -32,7 +32,7 @@
 
 
 
-### ⚡ Tools
+### 🛠 Tools
 <div align="lift">
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
