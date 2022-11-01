@@ -13,6 +13,12 @@
 - 😄 Pronouns: ...
 # ⚡ Tech Stack
 
+<div align="center">
+	<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/TensorFlow-E34F26?style=flat&logo=TensorFlow&logoColor=white" />
+	<img src="https://img.shields.io/badge/PyTorch-1572B6?style=flat&logo=PyTorch&logoColor=white" />
+</div>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
